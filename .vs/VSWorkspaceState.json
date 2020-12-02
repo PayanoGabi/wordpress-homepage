@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\wp-content",
+    "\\wp-content\\themes",
+    "\\wp-content\\themes\\fuck-master-blaster",
+    "\\wp-content\\themes\\fuck-master-blaster\\assets"
   ],
+  "SelectedNode": "\\wp-content\\themes\\fuck-master-blaster\\index.php",
   "PreviewInSolutionExplorer": false
 }

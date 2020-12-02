@@ -14,6 +14,7 @@ function homepage_files(){
 					//(name, location that points to the file)
 
 	wp_enqueue_script('main-js', get_theme_file_uri('/assets/main.js'), NULL,'1.0', true);
+	                  //name, get the url parameter path for this file, other, version, do you want it loaded at the bottom
 
 
 	//wp_enqueue_script('main_script' get_stylesheet_uri()); // load js
