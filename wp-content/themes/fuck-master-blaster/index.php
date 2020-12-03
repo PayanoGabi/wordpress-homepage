@@ -9,47 +9,21 @@
         <div class="site-wrapper-inner">
             <div class="cover-container">
                 
-                <div class="inner cover">
+              
                    <!-- <h1 class="cover-heading">Location: Boston</h1> -->
                     <img id="sample"  onclick="winAlert()" src="/wordpress-homepage/wp-content/themes/fuck-master-blaster/images/Gabi-Payano.jpg" />
                     <section id="hidden-section">
                         <button id="exit-button" onclick="exitWindows()">EXIT</button>
                         <a href="something" class="button1 bouncy">Facebark</a>
-
-                        <div class="shape-container">
-                            <a href="#">
-                                <div class="shape-top">
-                                    <h1 class="test-txt">Welcome<br />to<br /></h1>
-                                </div>
-
-                            </a>
-                            <div class="shape-top-outer"></div>
-                            <div class="shape-left-container">
-
-
-                            </div>
-                            <a href="#">
-                                <div class="shape-left"></div>
-                            </a>
-                            <div class="shape-left-outer"></div>
-
-                            <a href="#">
-                                <div class="shape-left-far"></div>
-                            </a>
-                            <div class="shape-left-far-outer"></div>
-
-                            <a href="#">
-                                <div class="shape-right"></div>
-                            </a>
-                            <div class="shape-right-outer"></div>
-
-                            <a href="#">
-                                <div class="shape-right-far"></div>
-                            </a>
-                            <div class="shape-right-far-outer"></div>
-
-
-
+                        <div class="project-container">
+							<div class="project-block">Project One</div>
+							<div class="project-block">Project Two</div>
+							<div class="project-block">Project Three</div>
+							<div class="project-block">Projejct Four</div>
+							<div class="project-block">Project Five</div>
+							<div class="project-block">Project Six</div>
+							<div class="project-block">Project Seven</div> 
+							<div class="project-block">Project Eight</div>   
                         </div>
 
                     </section>
@@ -64,7 +38,6 @@
 
                     </div>
                 </div>
-            </div>
         </div>
     </div>
 
